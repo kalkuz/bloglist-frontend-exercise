@@ -1,0 +1,13 @@
+.error {
+  background: #ffbbbb;
+  border: 1px solid #ff0000;
+  font-weight: bold;
+  padding: 1rem;
+}
+
+.success {
+  background: #bbffbb;
+  border: 1px solid #00bb00;
+  font-weight: bold;
+  padding: 1rem;
+}
